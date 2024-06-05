@@ -59,7 +59,7 @@ const INITIAL_VIEW_STATE = {
 
 
 const minTime = 0;
-const maxTime = 45;
+const maxTime = 350;
 const animationSpeed = 0.5;
 const mapStyle = "mapbox://styles/spear5306/ckzcz5m8w002814o2coz02sjc";
 
